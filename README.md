@@ -35,7 +35,7 @@ module.exports = {
 We hebben ook een dj mode. Hiermee kan je instellen dat je een bepaalde rol moet hebben om liedje's af te spelen en commando's uit te voeren.
 
 
-### Instalatie
+### Installatie
 
 Ja het is heel simpel en in principe heb je geen ervaring nodig met javascript.
 Deze bot is trouwens volledig gemaakt met Javascript.
