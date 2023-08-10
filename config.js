@@ -2,7 +2,7 @@ module.exports = {
     app: {
         px: 'PREFIX HIERO',
         token: 'TOKEN HIERO',
-        playing: 'Made by Princ'
+        playing: 'github.com/Prinkie'
     },
 
     opt: {
